@@ -1,9 +1,9 @@
-Here’s a polished **README.md** for your GitHub project. I’ve structured it step by step, added explanations, and formatted it neatly so that anyone cloning your repo can follow it easily.
 
-````markdown
+
+
 # 🚀 Docker Swarm Cluster – Deploy Nginx Web App
 
-This project demonstrates how to set up a **Docker Swarm cluster** on a single-node (Amazon Linux) and deploy a simple **Nginx-based web application** using Docker and Swarm stack deployment.
+# This project demonstrates how to set up a **Docker Swarm cluster** on a single-node (Amazon Linux) and deploy a simple **Nginx-based web application** using Docker and Swarm stack deployment.
 
 ---
 
