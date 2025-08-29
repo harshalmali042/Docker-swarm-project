@@ -182,13 +182,3 @@ You have successfully:
 
 ---
 
-## 🧑‍💻 Author
-
-**Harshal Mali** – *DevOps & Cloud Enthusiast*
-
-```
-
----
-
-👉 Do you also want me to add a **GitHub project folder structure with all files (`Dockerfile`, `harshalapp.conf`, `docker-compose.yml`)** so that your repo is ready-to-use?
-```
